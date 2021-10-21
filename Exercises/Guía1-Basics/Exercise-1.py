@@ -1,2 +1,3 @@
-'''Creat a program that shows the following message “hello world!” on screen.'''
-print('hello world!')
+'''Creat a program that shows the following message “Hello world!” on screen.'''
+
+print('Hello world!')
