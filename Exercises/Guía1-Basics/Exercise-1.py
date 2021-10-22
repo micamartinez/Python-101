@@ -1,3 +1,3 @@
-'''Create a program that shows the following message “Hello world!” on screen.'''
+# Create a program that shows the following message “Hello world!” on screen.
 
 print('Hello world!')
