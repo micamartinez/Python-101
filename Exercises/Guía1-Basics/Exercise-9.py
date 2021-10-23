@@ -15,5 +15,5 @@ package = number_c * clown + number_d * doll
 if package < 1000:
     print(f'The total weight of the package is {package} grams.')
 else:
-    peso_pqt /= 1000
+    package /= 1000
     print(f'The total weight of the package is {package} kilos.')
