@@ -10,4 +10,10 @@ Here I have compiled all the exercises I solved during the course `'Python orien
 
 >#### **3. OOP**
 
+>#### **4. OOP**
 
+>#### **5. Files**
+
+>#### **6. NumPy**
+
+>#### **7. Pandas**
